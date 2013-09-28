@@ -67,4 +67,4 @@ The final width of the image
 
 ### Height `{{ height }}`
 
-The final width of the image
+The final height of the image
